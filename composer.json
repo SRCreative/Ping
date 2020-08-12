@@ -2,20 +2,18 @@
     "name": "srcreative/ping",
     "description": "Ping test for composer",
     "type": "library",
-    "license": "MIT",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Steve Porter",
             "email": "steve@srcreative.net"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
-        "psr-0": {
-            "psr-4": {"SRCreativePing\\": "src/"}
-        }
+        "psr-4": { "SRCreativePing\\": "src/" }
     },
     "require": {
         "php": ">=5.3.0"
     }
 }
+
