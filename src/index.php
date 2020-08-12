@@ -1,6 +1,6 @@
 <?php 
 
-namespace SRCreative\Ping;
+namespace SRCreativePing;
 
 class Index {
         
