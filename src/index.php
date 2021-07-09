@@ -2,7 +2,7 @@
 
 namespace SRCreativePing;
 
-class Index {
+class SRCreativePing{
         
     public function ping( $ping = "The Sultans of Ping FC" ){
         return $ping;
